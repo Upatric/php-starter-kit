@@ -1,6 +1,14 @@
+# Default owners for everything
+
 * @kinde-starter-kits/giants-kinde
 
-package-lock.json @kinde-starter-kits/sdk-engineers
-**/package-lock.json @kinde-starter-kits/sdk-engineers
-package.json @kinde-starter-kits/sdk-engineers
+# Dependency-related files for this repo
+
+/composer.json @kinde-starter-kits/sdk-engineers
+**/composer.json @kinde-starter-kits/sdk-engineers
+/composer.lock @kinde-starter-kits/sdk-engineers
+**/composer.lock @kinde-starter-kits/sdk-engineers
+/package.json @kinde-starter-kits/sdk-engineers
 **/package.json @kinde-starter-kits/sdk-engineers
+/package-lock.json @kinde-starter-kits/sdk-engineers
+**/package-lock.json @kinde-starter-kits/sdk-engineers
